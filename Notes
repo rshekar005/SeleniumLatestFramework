@@ -1,0 +1,20 @@
+Page Factory:
+
+Advantages:
+1. Reduced Verbosity --> It means it reduces writing driver.findElements();
+2. Faster to find elements --> @cacheLookUp --> First time it will find element from DOM. From next time it will fetch from cache
+3. Lazy evaluation --> 
+
+Disadvamtages:
+1. It cannot be used for Dynamic Web Elements
+2. StaleElementExceptions
+3. NullPointerException
+
+
+DataProvider:
+1. If we use for loop then total test run will be 1.
+   Example: for login used three different set of data using for loop then total test run will be 1.
+   If 1st set of data is failed then we don't know the result of next set data.
+   
+   Test count will be 1 even if we run same test case 100 times with different set of data.
+   If 1st set of data is failed then we don't know the result of next set data.

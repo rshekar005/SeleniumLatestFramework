@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="84344" started-at="2021-05-01T13:15:56 IST" finished-at="2021-05-01T13:17:21 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="84344" started-at="2021-05-01T13:15:56 IST" finished-at="2021-05-01T13:17:21 IST">
+      <class name="com.qa.tests.AmazonPageTest">
+        <test-method status="PASS" signature="setUp([Ljava.lang.Object;)[pri:0, instance:com.qa.tests.AmazonPageTest@2a742aa2]" name="setUp" is-config="true" duration-ms="35673" started-at="2021-05-01T13:15:57 IST" finished-at="2021-05-01T13:16:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@49872d67]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp([Ljava.lang.Object;)[pri:0, instance:com.qa.tests.AmazonPageTest@2a742aa2]" name="setUp" is-config="true" duration-ms="34504" started-at="2021-05-01T13:15:57 IST" finished-at="2021-05-01T13:16:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@56303b57]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp([Ljava.lang.Object;)[pri:0, instance:com.qa.tests.AmazonPageTest@2a742aa2]" name="setUp" is-config="true" duration-ms="42308" started-at="2021-05-01T13:15:57 IST" finished-at="2021-05-01T13:16:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@4b2a01d4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- com.qa.tests.AmazonPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
