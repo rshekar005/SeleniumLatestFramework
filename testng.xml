@@ -13,7 +13,6 @@
 			 <class name="com.qa.testNG.Runner"></class> -->
 			 <class name="com.qa.tests.AmazonPageTest"></class>
 			
-			
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
